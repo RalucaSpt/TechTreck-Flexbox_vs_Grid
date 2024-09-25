@@ -11,6 +11,16 @@ body {
     color: white;
 }
 
+.header a {
+    color: #9a1d87;
+    text-decoration: none;
+    border: 1px #aaa;
+    border-radius: 7%;
+    padding: 10px;
+    font-size: x-small;
+    background-color: #aaa;
+}
+
 .navbar {
     display: grid;
     justify-content: flex-start;

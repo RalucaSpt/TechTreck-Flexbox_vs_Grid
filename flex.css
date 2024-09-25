@@ -5,10 +5,20 @@ body {
 }
 
 .header {
-    background-color: #9c1e89;
+    background-color: #9a1d87;
     padding: 20px;
     color: white;
     text-align: center;
+}
+
+.header a {
+    color: #9a1d87;
+    text-decoration: none;
+    border: 1px #aaa;
+    border-radius: 7%;
+    padding: 10px;
+    font-size: x-small;
+    background-color: #aaa;
 }
 
 .navbar {
